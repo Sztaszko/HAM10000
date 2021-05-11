@@ -1,6 +1,6 @@
-## HAM10000
+# HAM10000
 
-# Introduction
+## Introduction
 Project realised as part of the Knowledge-based Computational Intelligence and Data Mining in Biomedicine course. 
 
 The goal is to perform classification and automatic segmentation of the HAM10000 dataset containig skin cancer images.
