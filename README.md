@@ -7,4 +7,4 @@ The goal is to perform classification and automatic segmentation of the HAM10000
 
 Original challenge: https://challenge2018.isic-archive.com/
 
-Dataset from: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_1
+Dataset from: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
